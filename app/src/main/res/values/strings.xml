@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Credit Management</string>
+    <string name="show_all_users">Show All Users</string>
+</resources>
